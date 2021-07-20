@@ -1,1 +1,3 @@
-# learning-dan
+# Repo for learning
+
+Testing and upskilling.
